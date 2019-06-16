@@ -4,7 +4,7 @@
 Install Let's Encrypt SSL on RunCloud.io servers
 
 ### Ken Before start Installation ###
-RunCould>Web Application>My_APP>Domain Name>Add www.domain.com and domain.com (if not exist)
+Go to RunCould>Web Application>My_APP>Domain Name>Add www.domain.com and domain.com (if not exist)
 If you don't add www, when finish https://www.domain.com will not work (You have to uninstall SSL certificate `rcssl -u` then install agian)
 
 ### Installation
